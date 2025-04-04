@@ -18,7 +18,7 @@ This is a simple calculator library in C++ that includes several mathematical op
 
 1. Clone the repository:
 
-git clone https://github.com/Abdullah-Ax/CS2-Calculator-AbdullahAhmed/commits/master
+git clone https://github.com/Abdullah-Ax/CS2-Calculator-AbdullahAhmed
 cd CS2-Calculator-AbdullahAhmed
 
 2. Create a build directory and navigate to it:
