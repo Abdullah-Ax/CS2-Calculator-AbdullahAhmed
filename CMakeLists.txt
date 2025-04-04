@@ -9,11 +9,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 
 # Add calculator library
-<<<<<<< HEAD
-add_library(calculator calculator.cpp)
-=======
 add_library(calculator calculator.cpp expression_parser.cpp)
->>>>>>> feature
 
 # Add executable
 add_executable(test_calculator test.cpp)
